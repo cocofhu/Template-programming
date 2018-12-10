@@ -2,7 +2,7 @@
 struct Test {
 	Test() 
 	{ 
-		std::cout << "TTest()" << std::endl;
+		std::cout << "Test()" << std::endl;
 	}
 	Test(const Test&) 
 	{
