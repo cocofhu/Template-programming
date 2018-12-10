@@ -1,8 +1,8 @@
 #include "iostream"
 struct Test {
 	Test() 
-	{
-		std::cout << "Test()" << std::endl;
+	{ 
+		std::cout << "TTest()" << std::endl;
 	}
 	Test(const Test&) 
 	{
